@@ -1,5 +1,5 @@
 _repo: Three-Visitors-to-Early-Plymouth-Letters-about-the-Pilgrim-settlement-in-New-England-during-i__66135
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: Morison, Samuel Eliot
@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '53653'
     url: http://www.gutenberg.org/2009/agents/53653
     wikipedia: https://en.wikipedia.org/wiki/Samuel_Eliot_Morison
+covers:
+- cover_type: archival
+  image_path: 66135-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Rasieres, Isaack de
@@ -37,6 +40,8 @@ creator:
     gutenberg_agent_id: '53651'
     url: http://www.gutenberg.org/2009/agents/53651
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66135#Three-Visitors-to-Early-Plymouth-Letters-about-the-Pilgrim-settlement-in-New-England-during-i_
 gutenberg_issued: '2021-08-25'
 identifiers:
   gutenberg: '66135'
