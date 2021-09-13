@@ -1,0 +1,55 @@
+_repo: Three-Visitors-to-Early-Plymouth-Letters-about-the-Pilgrim-settlement-in-New-England-during-i__66135
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Morison, Samuel Eliot
+    aliases:
+    - Morison, Eliot
+    - Morison, S. E. (Samuel Eliot)
+    birthdate: 1887
+    deathdate: 1976
+    gutenberg_agent_id: '53653'
+    url: http://www.gutenberg.org/2009/agents/53653
+    wikipedia: https://en.wikipedia.org/wiki/Samuel_Eliot_Morison
+creator:
+  authors:
+  - agent_name: Rasieres, Isaack de
+    alias: Rasières, Isaack de
+    birthdate: 1595
+    gutenberg_agent_id: '53650'
+    url: http://www.gutenberg.org/2009/agents/53650
+  - agent_name: Altham, Emmanuel
+    birthdate: 1600
+    deathdate: 1635
+    gutenberg_agent_id: '53649'
+    url: http://www.gutenberg.org/2009/agents/53649
+  - agent_name: Pory, John
+    alias: Pory, Iohn
+    birthdate: 1572
+    deathdate: 1636
+    gutenberg_agent_id: '53648'
+    url: http://www.gutenberg.org/2009/agents/53648
+    wikipedia: https://en.wikipedia.org/wiki/John_Pory
+  editor:
+    agent_name: James, Sydney V.
+    birthdate: 1929
+    deathdate: 1993
+    gutenberg_agent_id: '53651'
+    url: http://www.gutenberg.org/2009/agents/53651
+description: ''
+gutenberg_issued: '2021-08-25'
+identifiers:
+  gutenberg: '66135'
+  lccn: '66008244'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Massachusetts -- History -- New Plymouth, 1620-1691'
+- !lcc 'F001'
+- GITenberg
+title: 'Three Visitors to Early Plymouth
+
+  Letters about the Pilgrim settlement in New England during its first seven years'
+url: http://www.gutenberg.org/ebooks/66135
